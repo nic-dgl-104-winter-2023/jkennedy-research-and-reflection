@@ -7,3 +7,7 @@ I'm going to spend time on coding websites and online communites challenging mys
 In the theme of 104 being a app development course, I'd like to increase my knowledge of mobile platforms and learn some useful practices for efficient coding on mobile platforms. I'm going to research people and teams who have experience in the field of mobile development and study/learn from them using resources like youtube.
 
 Over the duration of this course, I'd like to be able to envision ways to elevate my coding and challenge myself to do things that I'm maybe uncomfortable with. For example, trying new coding techniques or concepts. I'm not sure what that looks like or how to articulate it at this moment but the next time I visit this I want to be able to identify areas in my skillset to expand on.
+
+https://www.oracle.com/java/technologies/javase/codeconventions-contents.html
+https://www.learncs.online/
+https://leetcode.com/
