@@ -18,3 +18,6 @@ Over the duration of this course, I'd like to be able to envision ways to elevat
 - [Java Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html)
 - [Learn CS online](https://www.learncs.online/)
 - [Leet Code](https://leetcode.com/)
+
+##Week 3 intro course done
+![image](https://user-images.githubusercontent.com/113213004/215255712-6549d3a8-b67b-4133-80e6-85f4104a26c2.png)
