@@ -22,4 +22,9 @@ Over the duration of this course, I'd like to be able to envision ways to elevat
 ##Week 3 intro course done
 ![image](https://user-images.githubusercontent.com/113213004/215255712-6549d3a8-b67b-4133-80e6-85f4104a26c2.png)
 
+I feel I gave the model/view/adapter assignment an honest attempt, but am struggling. Hopefully
+a 1-on-1 in class will help.
+
+https://github.com/nic-dgl-104-winter-2023/jkennedy-research-and-reflection/tree/community-code
+
 
