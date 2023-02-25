@@ -27,4 +27,9 @@ a 1-on-1 in class will help.
 
 https://github.com/nic-dgl-104-winter-2023/jkennedy-research-and-reflection/tree/community-code
 
+### Week 6
+Some design patterns I found interesting are the factory method, builder and decorator. I feel learning and understanding these concepts can help me in my courses and better progress my knowledge of coding in general.
 
+>Identify and explain in your Research & Reflection journal at least two positives (things you've seen we should do) and two negatives (things you've seen we shouldn't do) in terms of documentation approach that you've seen in any two of the following design pattern repositories:
+
+Is this in regards to our community code assignment? I really like the use of code blocks and photos to help simplify explanation of concepts and how (some) of the repositories are neatly filed and laid out. 
