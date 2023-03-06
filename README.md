@@ -36,4 +36,10 @@ Is this in regards to our community code assignment? I really like the use of co
 
 ### Week 8
 
+Something I think could be interesting to pursue or perhaps branch off of is some sort of arcade-game style app. I feel it may be a bit optimistic, but I could use my basic tic-tac-toe or poker games I made while in the early stages of learning Python to use as a starting point. These games are pretty messy but could have potential. I'm not married to this idea, but it may be a good challenge for me to finish this course strong as it started off somewhat poorly. I also don't want to bite off to much as I have large projects in cps101 and cps128 as well.
 
+**Poker**
+https://replit.com/@Denverasop44/Poker#main.py
+
+**Tic tac toe**
+https://replit.com/@Denverasop44/TicTacToe#main.py
