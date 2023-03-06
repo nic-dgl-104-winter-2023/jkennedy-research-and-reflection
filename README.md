@@ -45,3 +45,15 @@ https://replit.com/@Denverasop44/Poker#main.py
 https://replit.com/@Denverasop44/TicTacToe#main.py
 
 It's going to take some time to adjust to app inventor and the block system. I am somewhat satisfied with the UI of the map it app, perhaps if were looking for improvements I could think about adding some categorization to the locations (house, landmark, business etc), I would also consider exploring embedding a map into the app rather than opening an external application.
+
+As a user of mapit I would be looking for some sort of selling point for this app. What woos me to using mapit that elevates it over the use of a normal maps app? Perhaps it could be geared as a travel companion, based on my use habits, if I were in a new spot, would the app suggest some new things to do or see? What if there was a social aspect to it? Facebook/Instagram/Twitter implementation to seamlessly and efforlessly turn my journey into a blog of sorts?
+
+**Suggestion function proposal "pseudocode"**
+
+> Suggestion function: Based on user input (Location) -> examine data from database/internet of previous visitors and compare against other locations visited by those people -> Suggest highly rated/reviewed businesses/landmarks by mutual users to user
+
+This may be challenging from a development/rollout angle as it likely would require a developed clientele to work as intended.
+
+>Examine the code blocks in the completed app with a critical eye. How could the code blocks be improved, based on what you’ve learned about good programming practice?
+
+The point I'd like to make regarding this question is less about the code itself, but more from a structure standpoint. I wonder if there is a way this program could be structured better. To elaborate: I find this code very hard to deal with from a visual and hierarchical view. The block system is nice in that a lot of the heavy lifting is already done, but for me, I feel this comes at a cost that I didn't have to think through the development process as much,so looking back and understanding what I've already done is somewhat challenging. This could be from a lack of experience/practice on my part, and that's on me.
