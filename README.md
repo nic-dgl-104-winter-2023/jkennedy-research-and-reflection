@@ -43,3 +43,5 @@ https://replit.com/@Denverasop44/Poker#main.py
 
 **Tic tac toe**
 https://replit.com/@Denverasop44/TicTacToe#main.py
+
+It's going to take some time to adjust to app inventor and the block system. I am somewhat satisfied with the UI of the map it app, perhaps if were looking for improvements I could think about adding some categorization to the locations (house, landmark, business etc), I would also consider exploring embedding a map into the app rather than opening an external application.
