@@ -33,3 +33,7 @@ Some design patterns I found interesting are the factory method, builder and dec
 >Identify and explain in your Research & Reflection journal at least two positives (things you've seen we should do) and two negatives (things you've seen we shouldn't do) in terms of documentation approach that you've seen in any two of the following design pattern repositories:
 
 Is this in regards to our community code assignment? I really like the use of code blocks and photos to help simplify explanation of concepts and how (some) of the repositories are neatly filed and laid out. 
+
+### Week 8
+
+
