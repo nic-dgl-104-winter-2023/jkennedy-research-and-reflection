@@ -58,11 +58,9 @@ This may be challenging from a development/rollout angle as it likely would requ
 
 The point I'd like to make regarding this question is less about the code itself, but more from a structure standpoint. I wonder if there is a way this program could be structured better. To elaborate: I find this code very hard to deal with from a visual and hierarchical view. The block system is nice in that a lot of the heavy lifting is already done, but for me, I feel this comes at a cost that I didn't have to think through the development process as much,so looking back and understanding what I've already done is somewhat challenging. This could be from a lack of experience/practice on my part, and that's on me.
 
-##Singleton
+###Singleton
 
-'''java
-{
-public class Singleton {
+    public class Singleton {
 
     private static Singleton onlyInstance;
     private String data;
@@ -86,6 +84,4 @@ public class Singleton {
         this.data = x;
     }
 
-}
-}
-'''
+
