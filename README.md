@@ -85,3 +85,18 @@ The point I'd like to make regarding this question is less about the code itself
         }
     }
 
+### Week 8
+
+Singleton added to cr-designpatterns.
+
+>Did the development of the UI of your app proceed smoothly? Or were there unexpected challenges?
+
+I am behind where I want to be with the project. I made progress earlier this week and I believe the UI is almost done and I have some functioning code that executes on initialization. I am having trouble translating what I would do in java or python into app inventor.
+
+>To what degree did you do design work (possibly in other classes, like DGL 111) to support the development of your app? How helpful was this design in the process of development?
+
+I don't think at all. If anything, the way I think about how much space any given element should take may be the only thing from 103 I can identify as being helpful in this context.
+
+>How do you anticipate that your app code may change as you continue development? Do you anticipate that you will use any design patterns or architectural patterns?
+
+I feel I'll be able to declutter as I go while designing the code of the app. Once i get more functions and functionality I think refactoring will be simple enough to keep on top of on the fly.
