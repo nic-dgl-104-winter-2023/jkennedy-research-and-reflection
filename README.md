@@ -100,3 +100,9 @@ I don't think at all. If anything, the way I think about how much space any give
 >How do you anticipate that your app code may change as you continue development? Do you anticipate that you will use any design patterns or architectural patterns?
 
 I feel I'll be able to declutter as I go while designing the code of the app. Once i get more functions and functionality I think refactoring will be simple enough to keep on top of on the fly.
+
+### Week 11
+
+All homework done.
+
+I wish I came up with a better idea for my app inventor project than the poker app. I fear I could have had more success going in a different direction than a game.
